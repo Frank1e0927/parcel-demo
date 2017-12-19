@@ -1,0 +1,17 @@
+{
+  "name": "parcel-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1"
+  }
+}
